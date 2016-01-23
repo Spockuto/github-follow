@@ -18,6 +18,6 @@ Usage
  
 *	Now add the following lines to your html page.
 ``` 
-<script src = "follow.js"></script>
+<script type="text/javascript" src="follow.js"></script>
 <button id="github-follow" onclick="getAccessCode()"></button>
 ```
